@@ -46,15 +46,20 @@
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [What makes Saleor special?](#what-makes-saleor-special)
 - [Features](#features)
 - [Installation](#installation)
 - [Documentation](#documentation)
+- [Saleor Platform](#saleor-platform)
+- [Storefront](#storefront)
+- [Dashboard](#dashboard)
 - [Demo](#demo)
 - [Contributing](#contributing)
-- [Translations](#translations)
+- [Legacy views](#legacy-views)
 - [Your feedback](#your-feedback)
 - [License](#license)
+    - [Crafted with ❤️ by Mirumee Software](#crafted-with-️-by-mirumee-software)
 
 ## What makes Saleor special?
 
@@ -92,9 +97,9 @@ The `master` branch is the development version of Saleor and it may be unstable.
 
 The current stable version is 2.10 and you should use this version for all three components:
 
-- Saleor: https://github.com/mirumee/saleor/releases/tag/2.10.2
-- Dashboard: https://github.com/mirumee/saleor-dashboard/releases/tag/2.10.0
-- Storefront: https://github.com/mirumee/saleor-storefront/releases/tag/2.10.3
+- Saleor: <https://github.com/mirumee/saleor/releases/tag/2.10.2>
+- Dashboard: <https://github.com/mirumee/saleor-dashboard/releases/tag/2.10.0>
+- Storefront: <https://github.com/mirumee/saleor-storefront/releases/tag/2.10.3>
 
 ## Documentation
 
